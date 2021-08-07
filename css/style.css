@@ -1,0 +1,44 @@
+* {
+
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+
+	background: lightgray;
+
+
+}
+
+#landing{
+
+	
+	border: 2px gray dashed;
+	padding: 1px;
+	margin: 30px 550px;
+	border-radius: 1em;
+
+
+}
+
+h1,
+h2{
+
+ 	font-family: 'Montserrat', sans-serif;
+ 	text-align: center;
+
+
+
+}
+
+ul{
+
+	text-align: center;
+	list-style: none;
+}
+
+img{
+
+	width: 500px;
+	border-radius: 50%;
+
+}
+
